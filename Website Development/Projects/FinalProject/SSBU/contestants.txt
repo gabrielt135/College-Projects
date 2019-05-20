@@ -1,0 +1,6 @@
+CSSBU17,Leonardo Lopez,MKLeo,25,mkleo@gmail.com
+CSSBU18,Gavin Dempsey,Tweek,23,tweek@gmail.com
+CSSBU19,Samuel Buzby,Dabuz,22,dabuz@gmail.com
+CSSBU20,Nairoby Quezada,Nairo,26,nairo@gmail.com
+CSSBU21,Saleem Young,Salem,21,salem@gmail.com
+CSSBU22,Tamim Omary,tamim,19,tamim@gmail.com

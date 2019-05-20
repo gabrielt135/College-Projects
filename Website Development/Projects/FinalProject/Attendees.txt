@@ -1,0 +1,28 @@
+CFTNT0,Tyler Blevins,Ninja,27,ninja@epic.games.com
+CFTNT1,Daniel Amofah,Etika,28,etika@gmail.com
+CFTNT2,Herchel Beahm,Dr.Disrespect,37,disrespect@gmail.com
+CFTNT3,Tyler Steinkamp,Tyler1,24,tyler1@gmail.com
+CDSNT4,Mun Son Beyong,Qudans,19,qudans@gmail.com
+CDSNT5,Marquis Jordan,Lil Majin,23,llmjin@gmail.com
+CDSNT6,Spearo Gineros,Spearo Gin,24,spegin@gmail.com
+CMK117,Dominique McLean,SonicFox,25,Sonicfox@gmail.com
+CMK118,Brad Vaughn,Scar,22,scar@gmail.com
+CMK119,Ryan Walker,Dragon,27,dragon@gmail.com
+CMK1110,Alexandre Dub-bilodeau,Hayatei,20,haya@gmail.com
+CMK1111,Christopher Muehlberger,St9rm,24,st9rm@gmail.com
+CMVCI12,Nicolas Gonzalez,Kane Blueriver,20,kblue@gmail.com
+CMVCI13,Raynel Hidalgo,RayRay,21,rrhidal@gmail.com
+CSCVI14,Asim Ali,Asim,19,asim@gmail.com
+CSCVI15,J. María Mateo,Caiper,21,caiper@gmail.com
+CSCVI16,Vincent Homan,Super Akouma,25,supakou@gmail.com
+CSSBU17,Leonardo Lopez,MKLeo,25,mkleo@gmail.com
+CSSBU18,Gavin Dempsey,Tweek,23,tweek@gmail.com
+CSSBU19,Samuel Buzby,Dabuz,22,dabuz@gmail.com
+CSSBU20,Nairoby Quezada,Nairo,26,nairo@gmail.com
+CSSBU21,Saleem Young,Salem,21,salem@gmail.com
+CSSBU22,Tamim Omary,tamim,19,tamim@gmail.com
+CFTNT23,Anna Ramirez ,AR,21,leidianar24@gmail.com
+CFTNT24,John Smith,30,24,jsmith@gmail.com
+CMK1125,Paul Thomas,PT,25,tp@gmail.com
+S26,Kyle Barretto,KB,21,kb@gmail.com
+S27,Jose Ramirez,JP,23,merchelysalba24@gmail.com

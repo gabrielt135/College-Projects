@@ -1,0 +1,35 @@
+body{
+	background: url(./images/background.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+
+h1{
+	text-align: center;
+	font-family: Impact, fantasy;
+	color: #003366;
+}
+
+img{
+	width: 200px;
+	height: 200px;
+}
+
+td{
+	text-align: center;
+	width: 297px;
+	background-color: rgba(51, 102, 153, 0.13);
+}
+
+th{
+	padding-bottom: 25px;
+	padding-top: 25px;
+	font-style: italic;
+	background-color: rgba(51, 102, 153, 0.8);
+	font-size: 18pt;
+}
+
+p{
+	color: white;
+}

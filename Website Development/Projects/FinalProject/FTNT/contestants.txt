@@ -1,0 +1,4 @@
+CFTNT0,Tyler Blevins,Ninja,27,ninja@epic.games.com
+CFTNT1,Daniel Amofah,Etika,28,etika@gmail.com
+CFTNT2,Herchel Beahm,Dr.Disrespect,37,disrespect@gmail.com
+CFTNT3,Tyler Steinkamp,Tyler1,24,tyler1@gmail.com

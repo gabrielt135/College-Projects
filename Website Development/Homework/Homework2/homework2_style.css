@@ -1,0 +1,63 @@
+body {
+	background-image: url(background.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+	color: white;
+}
+
+img.first_image{
+	height: auto;
+	width: 150px;
+	float: right;
+	margin-left: 40px;
+}
+
+div.multi-column p{
+	float: left;
+	width: 25%;
+	margin-left: 0.5em;
+	text-align: center;
+}
+
+p.multi-column {
+	clear: left;
+	column-count: 3;
+	margin-left: 100px;
+}
+
+img.Law, img.Chaos{
+	height: auto;
+	width: 200px;
+	clear: right;
+	overflow: hidden;
+}
+
+img.Heroine{
+	height: auto;
+	width: 150px;
+	clear: right;
+	overflow: hidden;
+}
+
+#italics , #italics2{
+	font-style: italic;
+}
+
+#red, #red2, #Chaos {
+	color: red;
+}
+
+#green, #green2, #Heroine {
+	color: #00FF00;
+}
+
+#cyan, #cyan2, #Law {
+	color: cyan;
+}
+
+#Absolute{
+	position: absolute;
+	left: 1625px;
+	top: 500px;
+}
+

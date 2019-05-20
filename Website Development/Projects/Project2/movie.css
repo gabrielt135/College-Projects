@@ -1,0 +1,128 @@
+body {
+	background-image: url(https://home.manhattan.edu/~tina.tian/CMPT241/project2/images/background.png);
+	font-size: 8pt;
+	font-family: Verdana, Tahoma, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	font-size: 24pt;
+	text-align: center;
+	text-shadow: 3px 3px #999999;
+}
+
+.bannerM {
+	background-image: url(https://home.manhattan.edu/~tina.tian/CMPT241/project2/images/bannerbg.png);
+	background-repeat: repeat-x;
+	text-align: center;
+	height: 50px;
+}
+
+.Columns{
+	float: left;
+	width: 45%; /*The reason this is 45% and not 47% is because 47% makes this into a single column*/
+	padding: 2%;
+	
+}
+
+.Review{
+	border: 2px solid gray ;
+	border-radius: 10px;
+	background-color: #E8DC9B;
+	font-weight: bold;
+	font-size: 8pt;
+	padding: 8px;
+}
+
+.Review img{
+	float: left;
+	padding-right: 5px;
+	vertical-align: top;
+}
+
+.Reviewer{
+	margin-bottom: 20pt;
+}
+
+.Reviewer img{
+	float: left;
+	padding-right: 5px;
+}
+
+.Reviewer p {
+	padding-bottom: 20pt;
+}
+
+.Reviewer .company{
+	font-style: italic;
+}
+
+#ReviewsList{
+	width: 550px;
+	float: left;
+	position: relative;
+}
+
+#banner2{
+	background-image: url(https://home.manhattan.edu/~tina.tian/CMPT241/project2/images/rbg.png);
+	background-repeat: repeat-x;
+	height: 83px;
+	width: auto;
+}
+
+#banner2 span{
+	color: red;
+	font-size: 48pt;
+	font-weight: bold;
+	vertical-align: top;
+}
+
+#overContent{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 4px gray solid;
+	border-radius: 20px;
+	overflow: hidden;
+}
+
+#genOverview{
+	width: 250px;
+	float: right;
+	background-color: #A2B964;
+	font-size: 8pt;
+	font-family: Arial, sans-serif;
+}
+
+#CastInfo{
+	margin: 10pt;
+}
+
+#CastInfo dt{
+	font-weight: bold;
+}
+
+#CastInfo dd{
+	padding-bottom: 10pt;
+}
+
+#CastInfo ul{
+	list-style-type: none;
+	padding: 0;
+}
+
+#NoOfReviews{
+	clear: both;
+	text-align: center;
+	padding: 5px;
+	margin:0;
+	background-color: #A2B964;
+}
+
+#valids{
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+	opacity: 0.5;
+}

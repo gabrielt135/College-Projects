@@ -1,0 +1,3 @@
+CSCVI14,Asim Ali,Asim,19,asim@gmail.com
+CSCVI15,J. María Mateo,Caiper,21,caiper@gmail.com
+CSCVI16,Vincent Homan,Super Akouma,25,supakou@gmail.com

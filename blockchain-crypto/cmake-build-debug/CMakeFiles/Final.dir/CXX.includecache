@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jeanbaptistetamasleloup/Documents/Cours/CPMT/Final/Block.h
+cstdint
+-
+iostream
+-
+time.h
+-
+sha256.h
+/Users/jeanbaptistetamasleloup/Documents/Cours/CPMT/Final/sha256.h
+
+/Users/jeanbaptistetamasleloup/Documents/Cours/CPMT/Final/Blockchain.h
+cstdint
+-
+vector
+-
+Block.h
+/Users/jeanbaptistetamasleloup/Documents/Cours/CPMT/Final/Block.h
+
+/Users/jeanbaptistetamasleloup/Documents/Cours/CPMT/Final/NamespaceDisplay.h
+User.h
+/Users/jeanbaptistetamasleloup/Documents/Cours/CPMT/Final/User.h
+
+/Users/jeanbaptistetamasleloup/Documents/Cours/CPMT/Final/User.h
+Blockchain.h
+/Users/jeanbaptistetamasleloup/Documents/Cours/CPMT/Final/Blockchain.h
+
+/Users/jeanbaptistetamasleloup/Documents/Cours/CPMT/Final/main.cpp
+NamespaceDisplay.h
+/Users/jeanbaptistetamasleloup/Documents/Cours/CPMT/Final/NamespaceDisplay.h
+thread
+-
+math.h
+-
+
+/Users/jeanbaptistetamasleloup/Documents/Cours/CPMT/Final/sha256.h
+string
+-
+

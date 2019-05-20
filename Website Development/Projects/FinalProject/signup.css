@@ -1,0 +1,25 @@
+body{
+	background-color:black;
+}
+ul {
+  list-style-type: none;
+  margin: 100px;;
+  overflow: hidden;
+  /*border:solid;
+  border-color:gray;*/
+border-bottom-style: dotted;
+  border-bottom-color:gray;
+  border-top-style: dotted;
+  border-top-color:gray;
+  display:block; 
+
+  
+}
+
+.Entry{
+	text-align:center;
+	font-size: 40px;
+}
+h1{
+	font-size:50px;
+}

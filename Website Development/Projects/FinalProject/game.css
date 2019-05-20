@@ -1,0 +1,134 @@
+.content {
+  max-width: 900px;
+  margin: auto;
+  /*background:red;*/
+  padding: 5px;
+/*background-image:url("reb.jpg");*/
+
+/*background-repeat:no-repeat;*/
+
+}
+
+h1{
+	color:#ffd700;
+	text-align:center;
+	font-size:80px;
+	
+
+}
+
+h1.head{
+	color:white;
+	font-size:70px;
+	
+}
+
+p{
+	color:white;
+	text-align:center;
+}
+body {
+	background-image:url("fade.jpg");
+
+  /* Center and scale the image nicely */
+  /*background-position: center;*/
+  background-repeat: repeat-y;
+  background-size: cover;
+  background-position:left;
+}
+
+
+
+
+img.ban{                /*align banner on top to center*/
+	margin:0 auto;
+	padding:0;
+	width:50%;
+	height:50%;
+	float:left;
+}
+
+img.ban1{
+	-moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        filter: FlipH;
+        -ms-filter: "FlipH";
+		margin:0 auto;
+	padding:0;
+	width:50%;
+	height:50%;
+	float:left;
+	
+}
+
+
+p.open{
+	font-style:italic;
+	font-size:50px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+  /*border:solid;
+  border-color:gray;*/
+border-bottom-style: dotted;
+  border-bottom-color:gray;
+  border-top-style: dotted;
+  border-top-color:gray;
+  display:block; 
+  
+}
+
+
+li {
+  float: left;
+ 
+}
+
+li a {
+  display: ;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  text-decoration: none;
+  
+  
+}
+
+/*li a:hover {
+  background-color: #111;
+}*/
+img.pic{
+	height:150px;
+	width:250px;
+	margin-right:auto;
+	margin-left:auto;
+	padding:20px;
+	display:block;
+	
+}
+.column {
+  float: left;
+  width: 30%;
+  height: 20%;
+ 
+}
+fieldset{
+	width: 500pt;
+	margin-left: auto;
+	margin-right: auto;
+	color:white;
+	
+
+}
+.Entry{
+	
+	margin-left: auto;
+	margin-right: auto;
+	color:white;
+	font-size:100px;
+}
