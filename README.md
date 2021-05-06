@@ -14,3 +14,7 @@ Projects in this repo:
     
   - Arduino as a Voltmeter: Using an Arduino and its IDE, Created a sketch that allows the Arduino to read inputted Voltage and 
     outputs the Voltage to a 16x2 LCD Display.
+
+  - Data Science/Analysis: Contains data science projects "Private vs Public Transportaion" and "Topics in Mathematics Statistic Project";
+    "Private vs Public Transportaion" where I and my then partner Lilybeth Delgado compared whether public transportation is faster or 
+    slower than public tansportation.
